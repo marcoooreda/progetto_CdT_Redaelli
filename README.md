@@ -7,4 +7,4 @@ Consiste nella codifica TEI P5 di alcuni articoli tratti dalla rivista La Rasseg
 Abbiamo validato con il comando:
 java -cp .\xerces-2_12_2-xml-schema-1.1\* dom.Counter -v .\La_Rassegna.xml 
 
-Per fare ciò occorre scaricare xerces-2_12_2-xml-schema-1.1 e posizionarlo all'interno della cartella.
+Per fare ciò occorre scaricare xerces-2_12_2-xml-schema-1.1 e posizionarlo all'interno della cartella; il comando va riscritto a mano in riga di comando poiché purtoppo anche se sembra che si visualizzino gli stessi caratteri a schermo, nel copiarlo non funziona.
